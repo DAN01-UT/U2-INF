@@ -1,0 +1,29 @@
+{
+    "AP": {
+        "name": "TL-SF1008D",
+        "type": "hardware",
+        "vendor": "TP-Link"
+    },
+    "clients": {
+        "name": "David-Lenovo",
+        "vendor": "Lenovo"
+    },
+    "servers": [
+        {
+            "name": "vboxserver-01",
+            "operative-system": "Linux CentOS Stream 9",
+            "services": [
+                "dhcp",
+                "http"
+            ]
+        },
+        {
+            "name": "vboxserver-02",
+            "operative-system": "Linux CentOS Stream 9",
+            "services": [
+                "dns",
+                "dhcp"
+            ]
+        }
+    ]
+}

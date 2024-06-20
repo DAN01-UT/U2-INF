@@ -1,0 +1,20 @@
+{
+    "as": "AS5769 Videotron Ltee",
+    "asname": "VIDEOTRON",
+    "city": "Montreal",
+    "continent": "North America",
+    "country": "Canada",
+    "hosting": false,
+    "isp": "Le Groupe Videotron Ltee",
+    "lat": 45.6752,
+    "lon": -73.5022,
+    "mobile": false,
+    "org": "Videotron Ltee",
+    "proxy": false,
+    "query": "24.48.0.1",
+    "region": "QC",
+    "regionName": "Quebec",
+    "reverse": "modemcable001.0-48-24.mc.videotron.ca",
+    "timezone": "America/Toronto",
+    "zip": "H1A"
+}
